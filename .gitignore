@@ -2,7 +2,8 @@
 SPRINT_PLAN.md
 *.plan.md
 notes/private/
-
+uv.lock
+.python-version
 # Environment & Credentials
 .env
 .env.local
